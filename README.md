@@ -5,7 +5,6 @@
 This project uses a classic diabetes dataset to explore, train, and evaluate different machine learning regression models. The main objective is to predict a quantitative measure of disease progression one year after the initial study, based on a set of predictor variables.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
-![Libraries](https://img.shields.io/badge/Libraries-Pandas%_Seaborn%_Scikit--Learn-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
